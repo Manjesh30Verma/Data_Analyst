@@ -42,9 +42,9 @@ All these values have been ignored while calculating average rating for each of 
  - Step 10 : The report was then published to Power BI Service.
  
  
-![image](https://github.com/volcanusacademy/Manjesh-Verma-13/assets/144987266/241a5b1c-cf33-4884-baf3-a38352497862)
+![Dashboard](https://github.com/volcanusacademy/Manjesh-Verma-13/assets/144987266/241a5b1c-cf33-4884-baf3-a38352497862)
 
-![image](https://github.com/volcanusacademy/Manjesh-Verma-13/assets/144987266/cf814178-0553-4d1d-ac3a-bba39dccaf62)
+![Dashboard](https://github.com/volcanusacademy/Manjesh-Verma-13/assets/144987266/cf814178-0553-4d1d-ac3a-bba39dccaf62)
 
 
 # Snapshot of Dashboard (Power BI Service)
@@ -56,7 +56,7 @@ All these values have been ignored while calculating average rating for each of 
  
  # Report Snapshot (Power BI DESKTOP)
 
-![Capture](https://github.com/volcanusacademy/Manjesh-Verma-13/assets/144987266/b919236f-b7c5-42af-907c-34734d4a0096)
+![Dashboard](https://github.com/volcanusacademy/Manjesh-Verma-13/assets/144987266/b919236f-b7c5-42af-907c-34734d4a0096)
  
 
 # Home 
@@ -97,4 +97,7 @@ Following inferences can be drawn from the dashboard;
  ### [4] Restaurant selection
  
  You can select your county and city, and then choose your preferred cuisine. You can also check whether the restaurant offers table booking and online ordering. Additionally, you can view the number of votes the restaurant has received. Finally, the price range of the restaurant is also provided.
+
+# This is my App Barcode
+![Manjesh_Zomato_BARCODE](https://github.com/Manjesh30Verma/PowerBi_Projects/assets/144987266/64d4373b-ae8d-4ac8-b55c-fa9f8c135a0f)
  
